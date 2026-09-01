@@ -1,0 +1,11 @@
+{
+  "total_records": 99978,
+  "total_attrition": 49983,
+  "total_retained": 49995,
+  "attrition_rate_pct": 49.99,
+  "avg_age": 35.5,
+  "avg_income": 10313.76,
+  "avg_years": 4.3,
+  "overtime_attrition_rate": 84.35,
+  "no_overtime_attrition_rate": 42.34
+}
